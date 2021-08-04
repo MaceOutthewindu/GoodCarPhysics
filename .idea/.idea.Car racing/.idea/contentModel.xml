@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Figaro\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Figaro\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Car racing.557950919.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Figaro\Car racing" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="RealisticCarControllerV3" t="Include">
+          <e p="Addon Packages" t="Include">
+            <e p="For ProFlares" t="Include">
+              <e p="Readme!.txt" t="Include" />
+            </e>
+            <e p="For Xbox &amp; PS4 Inputs" t="Include">
+              <e p="Export it to 'ProjectSettings' folder.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Editor" t="Include">
+            <e p="RCC_AIBZEditor.cs" t="Include" />
+            <e p="RCC_AIEditor.cs" t="Include" />
+            <e p="RCC_AIWPEditor.cs" t="Include" />
+            <e p="RCC_CameraEditor.cs" t="Include" />
+            <e p="RCC_Editor.cs" t="Include" />
+            <e p="RCC_EditorWindows.cs" t="Include" />
+            <e p="RCC_GroundMaterialsEditor.cs" t="Include" />
+            <e p="RCC_InitLoad.cs" t="Include" />
+            <e p="RCC_LabelEditor.cs" t="Include" />
+            <e p="RCC_LightEditor.cs" t="Include" />
+            <e p="RCC_MirrorsSetupEditor.cs" t="Include" />
+            <e p="RCC_RecordsEditor.cs" t="Include" />
+            <e p="RCC_SceneGUI.cs" t="Include" />
+            <e p="RCC_SceneManagerEditor.cs" t="Include" />
+            <e p="RCC_SetScriptingSymbol.cs" t="Include" />
+            <e p="RCC_SettingsEditor.cs" t="Include" />
+            <e p="RCC_WelcomeWindow.cs" t="Include" />
+          </e>
+          <e p="LICENSE - Read Me!.txt" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="ProjectorLight.shader" t="Include" />
+            <e p="ProjectorMultiply.shader" t="Include" />
+            <e p="RCC.cs" t="Include" />
+            <e p="RCC_AIBrakeZone.cs" t="Include" />
+            <e p="RCC_AIBrakeZonesContainer.cs" t="Include" />
+            <e p="RCC_AICarController.cs" t="Include" />
+            <e p="RCC_AIO.cs" t="Include" />
+            <e p="RCC_AIWaypointsContainer.cs" t="Include" />
+            <e p="RCC_APIExample.cs" t="Include" />
+            <e p="RCC_AssetPaths.cs" t="Include" />
+            <e p="RCC_Caliper.cs" t="Include" />
+            <e p="RCC_Camera.cs" t="Include" />
+            <e p="RCC_CameraCarSelection.cs" t="Include" />
+            <e p="RCC_CarControllerV3.cs" t="Include" />
+            <e p="RCC_CarSelectionExample.cs" t="Include" />
+            <e p="RCC_ChangableWheels.cs" t="Include" />
+            <e p="RCC_CharacterController.cs" t="Include" />
+            <e p="RCC_CinematicCamera.cs" t="Include" />
+            <e p="RCC_ColorPickerBySliders.cs" t="Include" />
+            <e p="RCC_Core.cs" t="Include" />
+            <e p="RCC_Customization.cs" t="Include" />
+            <e p="RCC_CustomizerExample.cs" t="Include" />
+            <e p="RCC_DashboardColors.cs" t="Include" />
+            <e p="RCC_DashboardInputs.cs" t="Include" />
+            <e p="RCC_DashboardObjects.cs" t="Include" />
+            <e p="RCC_Demo.cs" t="Include" />
+            <e p="RCC_DemoVehicles.cs" t="Include" />
+            <e p="RCC_DetachablePart.cs" t="Include" />
+            <e p="RCC_Exhaust.cs" t="Include" />
+            <e p="RCC_FixedCamera.cs" t="Include" />
+            <e p="RCC_FOVForCinematicCamera.cs" t="Include" />
+            <e p="RCC_FuelStation.cs" t="Include" />
+            <e p="RCC_GetBounds.cs" t="Include" />
+            <e p="RCC_GroundMaterials.cs" t="Include" />
+            <e p="RCC_HoodCamera.cs" t="Include" />
+            <e p="RCC_InfoLabel.cs" t="Include" />
+            <e p="RCC_InputManager.cs" t="Include" />
+            <e p="RCC_Inputs.cs" t="Include" />
+            <e p="RCC_LevelLoader.cs" t="Include" />
+            <e p="RCC_Light.cs" t="Include" />
+            <e p="RCC_LightEmission.cs" t="Include" />
+            <e p="RCC_Mirror.cs" t="Include" />
+            <e p="RCC_MobileButtons.cs" t="Include" />
+            <e p="RCC_MobileUIDrag.cs" t="Include" />
+            <e p="RCC_PlayerPrefsX.cs" t="Include" />
+            <e p="RCC_PoliceSiren.cs" t="Include" />
+            <e p="RCC_Recorder.cs" t="Include" />
+            <e p="RCC_Records.cs" t="Include" />
+            <e p="RCC_RepairStation.cs" t="Include" />
+            <e p="RCC_SceneManager.cs" t="Include" />
+            <e p="RCC_Settings.cs" t="Include" />
+            <e p="RCC_ShadowRotConst.cs" t="Include" />
+            <e p="RCC_Skidmarks.cs" t="Include" />
+            <e p="RCC_Skidmarks.shader" t="Include" />
+            <e p="RCC_SkidmarksManager.cs" t="Include" />
+            <e p="RCC_Spawner.cs" t="Include" />
+            <e p="RCC_SuspensionArm.cs" t="Include" />
+            <e p="RCC_Telemetry.cs" t="Include" />
+            <e p="RCC_Teleporter.cs" t="Include" />
+            <e p="RCC_TrailerAttachPoint.cs" t="Include" />
+            <e p="RCC_TruckTrailer.cs" t="Include" />
+            <e p="RCC_UIController.cs" t="Include" />
+            <e p="RCC_UIDashboardButton.cs" t="Include" />
+            <e p="RCC_UIDashboardDisplay.cs" t="Include" />
+            <e p="RCC_UIJoystick.cs" t="Include" />
+            <e p="RCC_UISliderTextReader.cs" t="Include" />
+            <e p="RCC_UISteeringWheelController.cs" t="Include" />
+            <e p="RCC_Useless.cs" t="Include" />
+            <e p="RCC_Waypoint.cs" t="Include" />
+            <e p="RCC_WheelCamera.cs" t="Include" />
+            <e p="RCC_WheelCollider.cs" t="Include" />
+            <e p="RCC_XRToggle.cs" t="Include" />
+          </e>
+          <e p="Skybox" t="Include">
+            <e p="SkyboxGuidelines.txt" t="Include" />
+          </e>
+        </e>
+        <e p="SimpleCarController.cs" t="Include" />
+      </e>
+      <e p="Car racing.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
